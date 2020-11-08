@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+cd /usr/local/risev2g/
+
+java -jar ./risev2g.jar
